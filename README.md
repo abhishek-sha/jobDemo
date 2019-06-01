@@ -6,10 +6,6 @@ Production-ready, one-click deployable boilerplate for [React](http://facebook.g
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/abhishek-sha/jobDemo)
 
-This is what you will get:
-
-https://flask-react-boilerplate.herokuapp.com/
-
 ## Local installation
 
 You'll neel a little more than one click.
@@ -55,6 +51,8 @@ Start PostgreSQL service if needed:
 ```
 pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start
 ```
+Create databe in postgres:
+Database Name :  demo
 
 Create database tables:
 
@@ -67,7 +65,7 @@ Finally, start local server:
 ```
 heroku local web
 
-open http://localhost:3001
+open http://localhost:5000
 ```
 
 ## What do we have here?

@@ -1,0 +1,11 @@
+export const REQUEST_JOBS = 'REQUEST_JOBS';
+export const REQUEST_JOBS_SUCCESS = 'REQUEST_JOBS_SUCCESS';
+export const REQUEST_JOBS_ERROR = 'REQUEST_JOBS_ERROR';
+
+export const ADD_JOB = 'ADD_JOB';
+export const ADD_JOB_SUCCESS = 'ADD_JOB_SUCCESS';
+export const ADD_JOB_ERROR = 'ADD_JOB_ERROR';
+
+export const DELETE_JOB = 'DELETE_JOB';
+export const DELETE_JOB_SUCCESS = 'DELETE_JOB_SUCCESS';
+export const DELETE_JOB_ERROR = 'DELETE_JOB_ERROR';

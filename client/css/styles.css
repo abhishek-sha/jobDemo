@@ -1,0 +1,63 @@
+.App {
+    padding: 5%;
+}
+.future_jobs_heading{
+    color: #2C7C9E;
+    font-style: italic;
+    font-weight: bold; 
+}
+.future-button{
+    margin: 1%
+}
+.second-row{
+    margin-top: 2%
+}
+.step-one{
+    font-size:30px;
+}
+.horizontal-line{
+    width: 100%;
+    height: 1%;
+    border:1px solid #cfcfcf;
+    margin-top: 2%;
+}
+.position-txt{
+    color: red;
+}
+
+/* FORM ELEMENTS */
+.form-group{
+    height: 3% ;
+}
+.form-label{
+    padding: 1% 8% 0 5%;
+    color: #000;
+}
+.form-input{
+    width: 40%;
+    height: 40px;
+    border-radius: 5px;
+}
+.checkbox-group{
+    width: 100%
+}
+.form-label.capitalize.col-8 {
+    margin-left: 18%;
+}
+.text-area {
+    width: 40%;
+    /* height: 40px; */
+    border-radius: 5px;
+}
+/* LISITNG HEADING */
+.lisiting_heading{
+    width:100%;
+    text-align: center;
+    font-size: 80px;
+    color: #2C7C9E;
+    font-style: italic;
+    font-weight: bold; 
+}
+.center-align{
+    text-align: center
+}
